@@ -13,3 +13,18 @@ main difference I've found so far is that you no longer have the service locator
 to insert the dependencies required.
 
 **Link to work:** [Sodium Application](http://github.com/srayner/sodium)
+
+
+### Day 2: January 16, 2017
+
+**Today's Progress**:
+* Continued with new ZF3 CMS project.
+* Added author form.
+* Added author add view script.
+* Created add action in author controller, need refactoring to use dependency injection.
+
+**Thoughts:** In typical Zend fashion they make things difficult for new users. Form view helpers cannot be used out of the box. Weirdly I seemed
+to have zend-form installed, but the view helpers are not available. After adding zend-form to composer.json and running composer update, they become
+available. However Zend-form seems to depend upon zend-i18n, but composer does not install this for us, so I had to add that to composer.json aswell.
+
+**Link to work:** [Sodium Application](http://github.com/srayner/sodium)
