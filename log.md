@@ -37,3 +37,16 @@ available. However Zend-form seems to depend upon zend-i18n, but codepencomposer
 **Thoughts:** Learnt about the filter css property for making images greyscale. Taking longer than expected. I should finish it tomorrow.
 
 **Link to work:** [Codepen Page](https://codepen.io/srayner/full/ZLBRaw/)
+
+### Day 4: January 18, 2017
+
+**Today's Progress**:
+* Continued with tribute page.
+* Improved header. Modified line height and margins so it behaved better right down to narrowest width.
+* Worked on the image container to have border, radius corners and white background.
+* Added quote to bottom of page.
+* Lightened the grey background a bit.
+
+**Thoughts:** I need to add media breaks so the well can progresively take up more percentage width as the widow width reduces.
+
+**Link to work:** [Codepen Page](https://codepen.io/srayner/full/ZLBRaw/)
