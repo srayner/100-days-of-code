@@ -50,3 +50,13 @@ available. However Zend-form seems to depend upon zend-i18n, but codepencomposer
 **Thoughts:** I need to add media breaks so the well can progresively take up more percentage width as the widow width reduces.
 
 **Link to work:** [Codepen Page](https://codepen.io/srayner/full/ZLBRaw/)
+
+### Day 5: January 19, 2017
+
+**Today's Progress**:
+* Finished tribute page.
+* Added two media queries to change text height and max width of image and list.
+
+**Thoughts:** Reminded myself how media queries work. It was good to practice some CSS for a change, as I normally only program back end stuff.
+
+**Link to work:** [Codepen Page](https://codepen.io/srayner/full/ZLBRaw/)
