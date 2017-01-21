@@ -60,3 +60,25 @@ available. However Zend-form seems to depend upon zend-i18n, but codepencomposer
 **Thoughts:** Reminded myself how media queries work. It was good to practice some CSS for a change, as I normally only program back end stuff.
 
 **Link to work:** [Codepen Page](https://codepen.io/srayner/full/ZLBRaw/)
+
+### Day 6: January 20, 2017
+
+**Today's Progress**:
+* Started creating my portfolio page.
+* Added most of the html
+* Added a google font and started with basic css styles.
+
+**Thoughts:** I find it really hard to think of good content/wording. This project should give me more practice with css.
+
+**Link to work:** [Codepen Page](http://codepen.io/srayner/pen/JEWzvX)
+
+### Day 7: January 21, 2017
+
+**Today's Progress**:
+* Continued with my portfolio page.
+* Started to add media breaks into css.
+* Added two screenshot images.
+
+**Thoughts:** This is good practice but I don't enjoy css.
+
+**Link to work:** [Codepen Page](http://codepen.io/srayner/pen/JEWzvX)
