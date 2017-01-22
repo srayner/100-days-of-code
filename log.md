@@ -82,3 +82,11 @@ available. However Zend-form seems to depend upon zend-i18n, but codepencomposer
 **Thoughts:** This is good practice but I don't enjoy css.
 
 **Link to work:** [Codepen Page](http://codepen.io/srayner/pen/JEWzvX)
+
+### Day 8: January 22, 2017
+
+**Today's Progress**:
+* Started working through basic Javascript in FreeCodeCamp.
+
+**Thoughts:** Finding it hard to make time to do this every day.
+
