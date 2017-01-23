@@ -90,3 +90,9 @@ available. However Zend-form seems to depend upon zend-i18n, but codepencomposer
 
 **Thoughts:** Finding it hard to make time to do this every day.
 
+### Day 9: January 23, 2017
+
+**Today's Progress**:
+* Wrapped example code into a php class for transforming flat data into a tree structure. 
+
+**Link to work:** [github.com](https://github.com/srayner/NavTree)
